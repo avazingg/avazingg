@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avazingg
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript
 - 📫 How to reach me avazingg@ya.ru
 
 <!---
