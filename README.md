@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @avazingg
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript ✨, TypeScript
-- 📫 How to reach me avazingg@gmail.com
+- 👀  I’m interested in QA automation and how websites work.
+- 🌱 I’m currently learning: Pyhton, Selenium, PlayWright
+- 💥 Proficient in using: Pyhton, Selenium, JavaScript, Typescript, HTMLS, CSS, SQL
+- 📫 How to reach me: avazingg@gmail.com
 
 <!---
 avazingg/avazingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
